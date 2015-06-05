@@ -1,4 +1,4 @@
-.facet-masthead {
+.stealth-masthead {
   border-image: radial-gradient(hsla(309, 63%, 55%, 1), hsla(309, 63%, 55%, 1) 10%, #1c1c26) 100% 1;
   border-width: 1px 0 0 0;
   padding: 0 0 30px;
@@ -8,21 +8,21 @@
   margin: 0 auto;
 }
 
-.facet-masthead .btn-lg {
+.stealth-masthead .btn-lg {
   min-width: 145px;
 }
 
-.facet-masthead .text-muted {
+.stealth-masthead .text-muted {
   color: rgba(177,186,198,.7);
 }
 
-.facet-footer {
+.stealth-footer {
   padding: 40px 0;
   background-color: #f3f3f3;
   border-top: 1px solid white;
 }
 
-.facet-header {
+.stealth-header {
   padding: 30px 0 30px;
   margin-bottom: 40px;
   color: #1c1c26;
@@ -35,7 +35,7 @@
   overflow: hidden;
 }
 
-.facet-panel {
+.stealth-panel {
   background-color: #2e2e2e;
   background-color: #1C1C26;
   color: #fff;
@@ -43,11 +43,11 @@
   margin-bottom: -50px;
 }
 
-.facet-panel a {
+.stealth-panel a {
   color: rgba(177,186,198,.7)
 }
 
-.facet-panel h3 {
+.stealth-panel h3 {
   color: #2ceefb
 }
 
@@ -56,7 +56,7 @@
   font-size: 24px;
 }
 
-.facet-bootlogo {
+.stealth-bootlogo {
   display: block;
   margin: 0 auto;
   height: 310px;
@@ -70,7 +70,7 @@
   );
 }
 
-.facet-booticon {
+.stealth-booticon {
   display: block;
   text-align: center;
   width: 340px;
@@ -80,13 +80,13 @@
   border-radius: 20px;
 }
 
-.facet-mark {
+.stealth-mark {
   color: #2ceefb;
   font-size: 1.69em;
   line-height: 30%;
   font-weight: 100;
 }
-.facet-logotype {
+.stealth-logotype {
   color: #fff;
   font-family: 'Open Sans';
   letter-spacing: .05em;
@@ -103,33 +103,33 @@
   background-color: #fff;
 }
 
-.facet-nav {
+.stealth-nav {
   margin-bottom: 0;
   background-color: hsla(231, 17%, 15%, 1);
   border: 0px;
 }
 
-.facet-nav .navbar-inverse{
+.stealth-nav .navbar-inverse{
   border-color: transparent;
 }
 
-.facet-nav .navbar-nav>.active>a {
+.stealth-nav .navbar-nav>.active>a {
   background-color: #0d0d12;
   border-bottom: 3px solid #2ceefb;
   padding-bottom: 12px;
 }
 
-.facet-nav img.facet-logo {
+.stealth-nav img.stealth-logo {
   height: 50px;
   position: absolute;
   top: 0;
 }
 
-.facet-sidebar.affix {
+.stealth-sidebar.affix {
   top: 10px;
 }
 
-.facet-sidebar .nav>.active>a {
+.stealth-sidebar .nav>.active>a {
   border-left: 3px solid #2ceefb;
   padding-left: 12px;
 }
