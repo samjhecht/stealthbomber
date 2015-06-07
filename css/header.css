@@ -3,7 +3,8 @@
   border-width: 1px 0 0 0;
   padding: 0 0 10px;
   color: #c3c3c5;
-  background-color: hsla(231, 17%, 15%, 1);
+  /*background-color: hsla(231, 17%, 15%, 1);*/
+  background-color: #0A101C;
   text-align: center;
   margin: 0 auto;
 }
@@ -66,7 +67,9 @@
 }
 
 .stealth-mainpic {
-  border-image: radial-gradient(hsla(309, 63%, 55%, 1), hsla(309, 63%, 55%, 1) 10%, #1c1c26) 100% 1;
+  border-image: radial-gradient(#B91900, #570900, #4A0800) 100% 1;
+  /*border-image: radial-gradient(#700C00, #570900, #4A0800) 100% 1;*/
+  /*border-image: radial-gradient(hsla(309, 63%, 55%, 1), hsla(309, 63%, 55%, 1) 10%, #1c1c26) 100% 1;*/
   max-width: 100%;
   height: auto;
   vertical-align: middle;
@@ -129,7 +132,8 @@
 
 .stealth-nav {
   margin-bottom: 0;
-  background-color: hsla(231, 17%, 15%, 1);
+  /*background-color: hsla(231, 17%, 15%, 1);*/
+  background-color: #0A101C;
   border: 0px;
 }
 
